@@ -1,6 +1,7 @@
 ﻿# THJScripts
 
- Change these
+Change these
+ 
 folder_path = r"C:\Users\Joe\Desktop\Projects\THJLogsVelious\SourceLogs"
 
 match = re.search(r"(Mint[^]+)_thj", filename)
